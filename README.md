@@ -8,6 +8,7 @@ Using SQL, Python, and Tableau, I built an analytics pipeline to transform raw t
 This is a **personal data scienc projects** completed to gain hands-on experience with real-world transactional data beyond coursework.
 
 ## Dashboard Preview
+![Retail Analytics Dashboard](/dashboard.png)
 
 ## Objectives
 
